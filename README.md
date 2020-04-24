@@ -18,6 +18,7 @@ Estes heróis podem ver os casos cadastrados por ONGs e entrar em contato com a 
 #para executar o projeto <br />
 `npm start`
 ```
+API pública: bruno-be-the-hero.herokuapp.com
 
 ### API
 ## Ongs
