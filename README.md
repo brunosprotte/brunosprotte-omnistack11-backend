@@ -13,7 +13,7 @@ npm install
 npx knex migrate:latest
 
 #para executar os testes projeto e garantir sua integridade <br />
-`npm test`
+npm test
 
 #para executar o projeto <br />
 npm start
