@@ -5,6 +5,7 @@ Estes heróis podem ver os casos cadastrados por ONGs e entrar em contato com a 
 
 ### Executando a aplicação:
 
+``` 
 #para instalar as dependências do projeto <br />
 `npm install` 
 
@@ -16,6 +17,7 @@ Estes heróis podem ver os casos cadastrados por ONGs e entrar em contato com a 
 
 #para executar o projeto <br />
 `npm start`
+```
 
 ### API
 ## Ongs
@@ -50,7 +52,7 @@ GET /ongs
 POST /sessions
 ```json
 {
-	"id":"abcd1234"
+	"id":"{ong_id}"
 }
 ```
 Resposta:
@@ -61,7 +63,7 @@ Resposta:
 ## Profile
 GET /profile
 
-Header: `Authorization: {id}`
+Header: `Authorization: {ong_id}`
 <br />
 Resposta:
 ```json
@@ -79,7 +81,7 @@ Resposta:
 ## Incidents
 POST /incidents
 <br />
-Header: `Authorization: {id}`
+Header: `Authorization: {ong_id}`
 
 ```json
 {
@@ -113,6 +115,6 @@ GET /incidents
   }
 ]
 ```
-DELETE /incidents/{id}
+DELETE /incidents/{ong_id}
 <br />
-Header: `Authorization: {id}`
+Header: `Authorization: {ong_id}`
