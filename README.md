@@ -39,14 +39,16 @@ Resposta:
 ```
 GET /ongs
 ```json
-{
-	"id": "abcd1234",
-	"name": "ONG",
-	"email": "ong@email.com.br",
-	"whatsapp": "(45) 9999 9999",
-	"city": "cidade",
-	"uf": "UF"
-}
+[
+	{
+		"id": "abcd1234",
+		"name": "ONG",
+		"email": "ong@email.com.br",
+		"whatsapp": "(45) 9999 9999",
+		"city": "cidade",
+		"uf": "UF"
+	}
+]
 ```
 
 ## Session
