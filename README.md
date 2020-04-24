@@ -7,16 +7,16 @@ Estes heróis podem ver os casos cadastrados por ONGs e entrar em contato com a 
 
 ``` 
 #para instalar as dependências do projeto <br />
-`npm install` 
+npm install
 
 #para criar o banco de dados <br />
-`npx knex migrate:latest`
+npx knex migrate:latest
 
 #para executar os testes projeto e garantir sua integridade <br />
 `npm test`
 
 #para executar o projeto <br />
-`npm start`
+npm start
 ```
 API pública: bruno-be-the-hero.herokuapp.com
 
