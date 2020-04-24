@@ -1,15 +1,15 @@
 ### Back-end do projeto Be The Hero construído durante a semana OmniStack11 da RocketSeat 🚀
 
-Be The Hero é uma plataforma onde ONGs podem cadastrar casos que precisam da ajuda de hérois <3;
+Be The Hero é uma plataforma onde ONGs podem cadastrar casos que precisam da ajuda de hérois <3; <br />
 Estes heróis podem ver os casos cadastrados por ONGs e entrar em contato com a ONG através e-mail ou WhatsApp;
 
 ### Executando a aplicação:
 
-npm install; para instalar as dependências do projeto
+npm install; para instalar as dependências do projeto <br />
 
-npx knex migrate:latest; para criar o banco de dados
-npm test; para executar os testes projeto e garantir sua integridade;
-npm start; para executar o projto;
+npx knex migrate:latest; para criar o banco de dados <br />
+npm test; para executar os testes projeto e garantir sua integridade; <br />
+npm start; para executar o projto; <br />
 
 ### API
 ## Ongs
