@@ -5,16 +5,16 @@ Estes heróis podem ver os casos cadastrados por ONGs e entrar em contato com a 
 
 ### Executando a aplicação:
 
-#para instalar as dependências do projeto
+#para instalar as dependências do projeto <br />
 `npm install` 
 
-#para criar o banco de dados
+#para criar o banco de dados <br />
 `npx knex migrate:latest`
 
-#para executar os testes projeto e garantir sua integridade
+#para executar os testes projeto e garantir sua integridade <br />
 `npm test`
 
-#para executar o projto;
+#para executar o projeto <br />
 `npm start`
 
 ### API
