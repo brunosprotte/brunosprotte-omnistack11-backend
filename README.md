@@ -5,11 +5,18 @@ Estes heróis podem ver os casos cadastrados por ONGs e entrar em contato com a 
 
 ### Executando a aplicação:
 
-npm install; para instalar as dependências do projeto <br />
+npm install; para instalar as dependências do projeto;
 
-npx knex migrate:latest; para criar o banco de dados <br />
-npm test; para executar os testes projeto e garantir sua integridade; <br />
-npm start; para executar o projto; <br />
+
+npx knex migrate:latest; para criar o banco de dados;
+
+
+npm test; para executar os testes projeto e garantir sua integridade;
+
+
+npm start; para executar o projto;
+
+
 
 ### API
 ## Ongs
