@@ -6,6 +6,7 @@ Estes heróis podem ver os casos cadastrados por ONGs e entrar em contato com a 
 ### Executando a aplicação:
 
 ``` 
+Node  versão 12
 #para instalar as dependências do projeto <br />
 npm install
 
