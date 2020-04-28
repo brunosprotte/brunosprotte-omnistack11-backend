@@ -20,6 +20,7 @@ npm test
 npm start
 ```
 API pública: bruno-be-the-hero.herokuapp.com
+
 Imagem Docker: https://hub.docker.com/r/brunosprotte/be-the-hero
 
 ### API
